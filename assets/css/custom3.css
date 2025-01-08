@@ -133,15 +133,6 @@ width: 95%; /* Adjust width on smaller screens */
     max-width:700px;
     margin:0 auto;
 }
-.content {
-    box-sizing:border-box;
-    width:95%;
-    margin:0 auto;
-    background:rgb(255, 255, 255) none repeat scroll 0 0;
-    border-radius:10px;
-    -webkit-box-shadow:0 0 20px #cccccc;
-    box-shadow:0 0 20px #cccccc;
-}
 .spin-wrapper {
     -webkit-box-shadow: 0 0 10px;
     box-shadow: 0 0 10px;
